@@ -1,7 +1,5 @@
 import warnings
 warnings.filterwarnings('ignore')
-
-from ultralytics import RTDETR
 from ultralytics import YOLO
 
 if __name__ == '__main__':
